@@ -1,0 +1,33 @@
+body {
+  padding-top: 40px;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+#target {
+  font-size: 150px;
+  letter-spacing: .1em;
+}
+
+#result {
+  font-size: 150px;
+  letter-spacing: .1em;
+  font-weight: bold;
+}
+
+#kana {
+  margin-bottom: 0;
+  font-size: 150px;
+}
+
+#underbar {
+  font-size: 150px;
+  margin: -1em;
+  height: 170px;
+}
+
+#underbar2{
+  color: transparent;
+  font-size: 150px;
+}
